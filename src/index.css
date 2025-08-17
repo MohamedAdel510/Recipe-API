@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+*{
+    font-family: "Pacifico", cursive;
+}
+
